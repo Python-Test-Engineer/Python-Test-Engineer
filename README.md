@@ -15,6 +15,11 @@
 - 👯 https://python-test-engineer.netlify.app/
 - 📫 mrcraigwest@hotmail.com
 
+##  Currently...
+
+I am developing a Python Testing Framework that has 3 self-contained Test Suites to enable ease of use for developers and testers. https://github.com/iwswordpress/generic-pytest-playwright-pytest-bdd-framework
+
+
 ## Talks and Workshops
 
 A list of talks and workshops I have given: 
@@ -60,10 +65,6 @@ A list of talks and workshops I have given:
 - TALK: JWT and Authentication - WPHooked London September 2019
 
 - TALK: Decoupled WordPress and WP Components - WordCamp Brighton August 2019.
-
-##  Currently...
-
-I am developing a Python Testing Framework that has 3 self-contained Test Suites to enable ease of use for developers and testers. https://github.com/iwswordpress/generic-pytest-playwright-pytest-bdd-framework
 
 ##  Published Udemy Courses 
 Udemy is a great learning platform and having sales at least once a month, courses can be purchased for ~ £15/$15 USD.
