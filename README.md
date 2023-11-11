@@ -12,7 +12,7 @@
 
 
 ## Connect with me
-<!--- 👯 https://wpjs.co.uk --->
+- 👯 https://python-test-engineer.netlify.app/
 - 📫 mrcraigwest@hotmail.com
 
 ## Talks and Workshops
