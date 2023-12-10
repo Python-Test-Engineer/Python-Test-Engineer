@@ -12,7 +12,7 @@
 
 
 ## Connect with me
-- 👯 https://python-test-engineer.netlify.app/
+- 🌐 https://python-test-engineer.netlify.app/
 - 📫 mrcraigwest@hotmail.com
 - 🖥️ https://www.youtube.com/@iwswordpress/featured
 
