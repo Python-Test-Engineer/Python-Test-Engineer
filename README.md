@@ -17,7 +17,7 @@
 
 ##  Currently...
 
-I am developing a Python Testing Framework that has 3 self-contained Test Suites to enable ease of use for developers and testers. [https://github.com/iwswordpress/generic-pytest-playwright-pytest-bdd-framework](https://github.com/Python-Test-Engineer/generic-pytest-playwright-pytest-bdd-framework)
+I am developing a collated resource for Python Testing along with a range of test Suites with 'one click' set up. [https://github.com/iwswordpress/generic-pytest-playwright-pytest-bdd-framework](https://github.com/Python-Test-Engineer/generic-pytest-playwright-pytest-bdd-framework)
 
 
 ## Talks and Workshops
