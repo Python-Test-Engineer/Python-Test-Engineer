@@ -18,7 +18,8 @@
 
 ##  Created Python Test Framework Templates
 
-A number of 'one click install with templates' TEST_SUITES. Docs: https://python-test-engineer.github.io/
+A number of 'one click install with templates' TEST_SUITES. 
+Documenation and repo: https://python-test-engineer.github.io/
 
 
 ## Talks and Workshops
