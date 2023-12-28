@@ -16,9 +16,9 @@
 - 📫 mrcraigwest@hotmail.com
 - 🖥️ https://www.youtube.com/@iwswordpress/featured
 
-##  Currently...
+##  Created Python Test Framework Templates
 
-I am developing a collated resource for Python Testing along with a range of test Suites with 'one click' set up. [https://github.com/iwswordpress/generic-pytest-playwright-pytest-bdd-framework](https://github.com/Python-Test-Engineer/PYTHON-TEST-FRAMEWORK)
+A number of 'one click install with templates' TEST_SUITES [https://python-test-engineer.github.io/]
 
 
 ## Talks and Workshops
