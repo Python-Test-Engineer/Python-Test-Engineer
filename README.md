@@ -12,7 +12,7 @@
 
 ## Currently: Working with ML/AI for US National Institutes of Health
 -  Machine Learning for survial outcome in Child Rhabdomyosarcoma Cancer based on genetic sequence.
--  RAG, retrieval augmented generation, for PubMed article repository. Creating a custom domain 'ChatGPT'.
+-  RAG, retrieval augmented generation, for PubMed article repository, using LangChain and various vector databases to create a custom domain 'ChatGPT'.
 
 ## Connect with me
 - 🌐 https://python-test-engineer.netlify.app/
