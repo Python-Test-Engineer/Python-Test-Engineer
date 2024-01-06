@@ -10,6 +10,9 @@
 - Talks and workshops given at WordCamps, MeetUps and NDC.
 [VIEW SPEAKING](#talks-and-workshops)
 
+## Currently: Working with ML/AI for US National Institutes of Health
+-  Machine Learning for survial outcome in Child Rhabdomyosarcoma Cancer based on genetic sequence.
+-  RAG, retrieval augmented generation, for PubMed article repository. Creating a custom domain 'ChatGPT'.
 
 ## Connect with me
 - 🌐 https://python-test-engineer.netlify.app/
