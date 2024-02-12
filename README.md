@@ -10,11 +10,6 @@
 - Talks and workshops given at WordCamps, MeetUps and NDC.
 [VIEW SPEAKING](#talks-and-workshops)
 
-## Currently: Working with ML/AI for US National Institutes of Health
-
-- Machine Learning for survival outcome in Child Rhabdomyosarcoma Cancer based on genetic sequence.
-- RAG, retrieval augmented generation, for PubMed article repository, using LangChain and various vector databases to create a custom domain 'ChatGPT' with Django.
-
 ## Connect with me
 - 🌐 https://python-test-engineer.netlify.app/
 - 📫 mrcraigwest@hotmail.com
