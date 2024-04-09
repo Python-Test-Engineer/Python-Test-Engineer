@@ -19,7 +19,7 @@
 
 A number of 'one click install with templates' TEST_SUITES. 
 
-Documenation and repo: https://python-test-engineer.github.io/
+Documenation and repo: [https://python-test-engineer.github.io/](https://python-testing.netlify.app/)
 
 
 ## Talks and Workshops
