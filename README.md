@@ -15,12 +15,11 @@
 - 📫 mrcraigwest@hotmail.com
 - 🖥️ https://www.youtube.com/@iwswordpress/featured
 
-##  Created Python Test Framework Templates
+##  Created 'PyTestest Cookbook - recipes with videos and repos'.
 
-A number of 'one click install with templates' TEST_SUITES. 
+[https://pytest-cookbook.netlify.app/](https://pytest-cookbook.netlify.app/)
 
-Documenation and repository: [https://python-testing.netlify.app/](https://python-testing.netlify.app/)
-
+[repo](https://github.com/Python-Test-Engineer/PYTHON-TEST-FRAMEWORK)
 
 ## Talks and Workshops
 
