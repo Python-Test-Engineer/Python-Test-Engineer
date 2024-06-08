@@ -72,7 +72,9 @@ A list of talks and workshops I have given:
 ##  Published Udemy Courses 
 Udemy is a great learning platform and having sales at least once a month, courses can be purchased for ~ £15/$15 USD.
 
-These have now been retired.
+June 2024: [Pytest Cookbook - Using hooks to create plugins](https://www.udemy.com/course/pytest-cookbook-using-hooks-to-create-custom-plugins/)
+
+The following have now been retired.
 
 - WordPress REST API and AJAX Forms/Pages - DEMO https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s (paid)
 - Progressive Web Apps - DEMO https://www.youtube.com/watch?v=k_lHvNL0gkw (paid)
