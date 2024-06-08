@@ -23,7 +23,7 @@
 
 [PyTest Full Stack Repo](https://github.com/Python-Test-Engineer/PyTest-Full-Stack)
 
-June 2024: [Pytest Cookbook - Using hooks to create plugins](https://www.udemy.com/course/pytest-cookbook-using-hooks-to-create-custom-plugins/)
+[Pytest Cookbook - Using hooks to create plugins](https://www.udemy.com/course/pytest-cookbook-using-hooks-to-create-custom-plugins/)
 
 ## Talks and Workshops
 
