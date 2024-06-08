@@ -25,6 +25,10 @@
 
 [Udemy Course: Pytest Cookbook - Using hooks to create plugins](https://www.udemy.com/course/pytest-cookbook-using-hooks-to-create-custom-plugins/)
 
+### Volounteer
+
+I volounteer at Codebar.io in Brighton.
+
 ## Talks and Workshops
 
 A list of talks and workshops I have given: 
@@ -94,9 +98,6 @@ There are also some specific videos explaining solutions to set ups other develo
 
 - :heavy_check_mark: WP Plugin Boilerplate:  I havea video series to explain WP Plugin Boilerplate using a scaffolded out project that demonstrates the use of MySQL, wp_nonce, REST API, forms and how to redirect pages to plugin templates to make the plugin theme independent. https://www.youtube.com/watch?v=lJ9ktD4JOfs&list=PLsszRSbzjyvn-RQr4dEjrgnTne2HcJKee
 
-### Volounteer
-
-I volounteer at Codebar.io in Brighton.
 
 ###  Outside interests
 
