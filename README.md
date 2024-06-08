@@ -17,9 +17,9 @@
 
 ##  Created 'PyTestest Cookbook - recipes with videos and repos'.
 
-[https://pytest-cookbook.netlify.app/]([https://pytest-cookbook.netlify.app](https://pytest-cookbook.com/d)/)
+[https://pytest-cookbook.netlify.app/](https://pytest-cookbook.com/)
 
-[repo]([https://github.com/Python-Test-Engineer/PYTHON-TEST-FRAMEWORK](https://github.com/Python-Test-Engineer/PyTest-Full-Stack)
+[PyTest Full Stack Repo](https://github.com/Python-Test-Engineer/PyTest-Full-Stack)
 
 ## Talks and Workshops
 
