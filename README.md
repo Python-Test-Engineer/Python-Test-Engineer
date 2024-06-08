@@ -11,13 +11,13 @@
 [VIEW SPEAKING](#talks-and-workshops)
 
 ## Connect with me
-- 🌐 https://python-test-engineer.netlify.app/
-- 📫 mrcraigwest@hotmail.com
+- 🌐 https://pytest-cookbook.com
+- 📫iwswordpress@gmail.com
 - 🖥️ https://www.youtube.com/@iwswordpress/featured
 
 ##  Created 'PyTestest Cookbook - recipes with videos and repos'.
 
-[https://pytest-cookbook.netlify.app/](https://pytest-cookbook.com/)
+[pytest-cookbook.com](https://pytest-cookbook.com/)
 
 [PyTest Full Stack Repo](https://github.com/Python-Test-Engineer/PyTest-Full-Stack)
 
