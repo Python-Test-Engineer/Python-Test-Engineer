@@ -10,6 +10,8 @@
 - Talks and workshops given at WordCamps, MeetUps and NDC.
 [VIEW SPEAKING](#talks-and-workshops)
 
+## Currently working as a freelance software tester in Brighton, UK
+
 ## Connect with me
 - 🌐 https://pytest-cookbook.com
 - 📫iwswordpress@gmail.com
