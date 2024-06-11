@@ -52,7 +52,7 @@ A list of talks and workshops I have given:
 - WORKSHOP: Progressive Web Apps Workshop (2hrs) - NDC Oslo June 2020 and a paid training workshop with NDC.
 
 - WORKSHOP: Web Components Workshop (2hrs) - NDC Oslo June 2020 and a paid training workshope with NDC.
-- 
+  
 - WORKSHOP: Progressive Web Apps Workshop (2hrs) - Brighton WordUp June 2020.
 
 - WORKSHOP: WordPress REST API with AJAX Forms and Pages - WordCamp Denver, June 2020.
