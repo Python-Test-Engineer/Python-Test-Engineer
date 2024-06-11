@@ -61,7 +61,7 @@ A list of talks and workshops I have given:
 
 - TALK: What is the WP REST API and how can I use it to make forms and pages that don’t need to do be reloaded? - WordUp Brighton May 2020.
 
-- WORKSHOP: WordPress REST API and AJAX Forms - WordCamp Geneva March 2020 [EVENT CANCELLED due to virus concerns :( ]
+- WORKSHOP: WordPress REST API and AJAX Forms - WordCamp Geneva March 2020 [EVENT CANCELLED due to virus concerns :( 
 
 - TALK - WP-HTML: The marriage of WP and JS Frameworks for expansion, ubiquity and profit - WordCamp Vienna February 2020.
 
