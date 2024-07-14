@@ -14,7 +14,7 @@
 
 ## Connect with me
 - 🌐 https://pytest-cookbook.com
-- 📫iwswordpress@gmail.com
+- 📫 mrcraigwest@hotmail.com
 - 🖥️ https://www.youtube.com/@iwswordpress/featured
 
 ##  Created 'PyTestest Cookbook - recipes with videos and repos'.
