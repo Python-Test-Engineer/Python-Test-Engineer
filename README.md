@@ -1,5 +1,5 @@
 <!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
-# Python Test Engineer
+# Backend Pythonista and Test Automation Engineer
 ## I work with PyTest and Playwright using Django, Docker and Git.
 
 - Degree in Chemistry, Oxford University.
@@ -10,7 +10,7 @@
 - Talks and workshops given at WordCamps, MeetUps and NDC.
 [VIEW SPEAKING](#talks-and-workshops)
 
-## Currently working as a software tester in Brighton, UK
+## Currently working as a freelancer in Brighton, UK
 
 ## Connect with me
 - 🌐 https://pytest-cookbook.com
