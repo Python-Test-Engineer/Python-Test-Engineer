@@ -33,6 +33,8 @@ I volounteer at Codebar.io in Brighton.
 
 A list of talks and workshops I have given: 
 
+- PyCon Ireland 2024 - 2 hr workshop 'Getting started with PyTest'
+  
 - TALK: Offline and instant websites, aka Progressive Web Apps - AsyncJS, Brighton, September 2021.
 
 - LIGHTNING TALK: WordPress as a Micro Service to any framework - WordFest, July 2021.
