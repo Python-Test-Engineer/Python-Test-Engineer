@@ -33,7 +33,7 @@ I volounteer at Codebar.io in Brighton.
 
 A list of talks and workshops I have given: 
 
-- PyCon Ireland 2024 - 2 hr workshop 'Getting started with PyTest'
+- PyCon Ireland 2024 - 2 hr workshop 'Getting started with PyTest' - Nov 2024
   
 - TALK: Offline and instant websites, aka Progressive Web Apps - AsyncJS, Brighton, September 2021.
 
