@@ -7,8 +7,9 @@
 - Former Business Information Architect.
 - Qualified Accountant Technician and business owner.
 - Pythonista and Python Test Engineer
-- Django, Flask, Docker
-- Experience with REST APIs, GraphQL, React, Vue, Web Components, Node
+- AI Agents, Langchain, Langgraph and other frameworks.
+- Django, Flask, Docker.
+- Experience with REST APIs, GraphQL, React, Vue, Web Components, Node.
 - Talks and workshops given at PyCons, WordCamps, MeetUps and NDC.
 [VIEW SPEAKING](#talks-and-workshops)
 
