@@ -25,6 +25,10 @@
 
 [pytest-cookbook.com](https://pytest-cookbook.com/)
 
+[https://ai-powered-knowledge-systems.netlify.app/](https://ai-powered-knowledge-systems.netlify.app/)
+
+[https://django-fullstack-testing.netlify.app/](https://django-fullstack-testing.netlify.app/)
+
 [PyTest Full Stack Repo](https://github.com/Python-Test-Engineer/PyTest-Full-Stack)
 
 [Udemy Course: Pytest Cookbook - Using hooks to create plugins](https://www.udemy.com/course/pytest-cookbook-using-hooks-to-create-custom-plugins/)
