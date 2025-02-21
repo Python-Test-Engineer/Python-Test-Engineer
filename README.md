@@ -123,4 +123,4 @@ There are also some specific videos explaining solutions to set ups other develo
 
 ###  Outside interests
 
-These include Community Kitchens, gym, occasional partner dancing and DIY.
+These include Community Kitchens, looking after my puppy Leo, a Red Fox Labrador, occasional partner dancing and DIY.
