@@ -93,7 +93,7 @@ Soon...
 
 - TALK: Decoupled WordPress (code along style) - WordCamp Dublin October 2019.
 
-- TALK: JWT and Authentication - WPHooked London September 2019
+- TALK: JWT and Authentication - WPHooked London September 2019.
 
 - TALK: Decoupled WordPress and WP Components - WordCamp Brighton August 2019.
 
