@@ -33,9 +33,9 @@
 
 [Udemy Course: Pytest Cookbook - Using hooks to create plugins](https://www.udemy.com/course/pytest-cookbook-using-hooks-to-create-custom-plugins/)
 
-## Volounteer
+## Volunteer
 
-I volounteer at Codebar.io in Brighton.
+I volunteer at Codebar.io in Brighton.
 
 ## Talks and Workshops
 
