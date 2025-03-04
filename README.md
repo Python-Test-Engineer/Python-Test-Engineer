@@ -1,8 +1,6 @@
 <!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
 # Agentic AI developer, tester and trainer
 
-## I work with PyTest and Playwright using Docker and GitHub Actions.
-
 - Degree in Chemistry, Oxford University.
 - Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA.
 - Former Business Information Architect.
