@@ -45,7 +45,7 @@ I volunteer at Codebar.io in Brighton.
 
 - Conf42 (online): Implementing Agentic AI Solutions in Python from scratch - 50 minute talk.
 
-- Pycon Ireland Nov 2024: Getting started with Pytest - 2 hr workshop.
+- PyCon Ireland Nov 2024: Getting started with Pytest - 2 hr workshop.
 
 <span style="color:orange;">Next...</span>
 
