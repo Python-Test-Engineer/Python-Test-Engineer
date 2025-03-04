@@ -39,21 +39,23 @@ I volounteer at Codebar.io in Brighton.
 
 ## Talks and Workshops
 
-A list of talks and workshops I have given: 
+### Python
 
-Soon...
+- Brighton Py Feb 2025: AI as API in everyday Python apps - 60 minute talk and demo.
 
-- Brighton Py Feb 2024: AI as API in everyday Python apps - 60 minute talk and demo.
+- Django Japan Congress Feb 2024 (online): Implementing Agentic AI solutions in Django from scrathc - 45 minute talk
 
-- DjangoConEurope April 2024: Implementing Agentic AI solutions in Django from scratch - 90 minute workshop.
-  
-<hr>
-
-- Django Japan Congress Feb 2024: Implementing Agentic AI solutions in Django from scrathc - 45 minute talk
+- Conf42 (online): Implementing Agentic AI Solutions in Python from scratch - 50 minute talk.
 
 - Pycon Ireland Nov 2024: Getting started with Pytest - 2 hr workshop.
 
+<span style="color:orange;">Next...</span>
+
+- DjangoConEurope April 20254: Implementing Agentic AI solutions in Django from scrathc - 90 minute workshop.
+
 <hr>
+
+### Other
 
 - TALK: Offline and instant websites, aka Progressive Web Apps - AsyncJS, Brighton, September 2021.
 
