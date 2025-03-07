@@ -49,7 +49,7 @@ I volunteer at Codebar.io in Brighton.
 
 <span style="color:orange;">Next...</span>
 
-- DjangoConEurope April 2025: Implementing Agentic AI solutions in Django from scrathc - 90 minute workshop.
+- DjangoConEurope April 2025: Implementing Agentic AI solutions in Django from scratch - 90 minute workshop.
 
 <hr>
 
