@@ -67,9 +67,9 @@ I volunteer at Codebar.io in Brighton.
 
 - WORKSHOP: WP REST API and you -> Best Friends Forever workshop (90 mins) - WordCamp Greece April 2021. Code: https://github.com/iwswordpress/WordCampGreece.
 
-- WORKSHOP: Progressive Web Apps Workshop (3hrs) - NDC 2021 (PAID) .
+- WORKSHOP: Progressive Web Apps Workshop (3hrs) - NDC 2021 Online (PAID) .
 
-- WORKSHOP: Web Components Workshop (2hrs) - NDC 2021 (PAID).
+- WORKSHOP: Web Components Workshop (3hrs) - NDC 2021 Online (PAID).
 
 - TALK: Web Components as Micro Apps - NDC London, Jan 2021
 
