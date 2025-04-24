@@ -1,5 +1,5 @@
 <!--![TECH](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)-->
-# Agentic AI developer, tester and trainer
+# Agentic Pythonista - developer, tester and trainer
 
 - Degree in Chemistry, Oxford University.
 - Former A+ PC Technician, Microsoft Certified Systems Engineer and Microsoft Certified SQL Server DBA.
@@ -38,6 +38,7 @@ I volunteer at Codebar.io in Brighton.
 ## Talks and Workshops
 
 ### Python
+- DjangoConEurope April 2025: Implementing Agentic AI solutions in Django from scratch - 90 minute workshop.
 
 - Brighton Py Feb 2025: AI as API in everyday Python apps - 60 minute talk and demo.
 
@@ -49,7 +50,7 @@ I volunteer at Codebar.io in Brighton.
 
 <span style="color:orange;">Next...</span>
 
-- DjangoConEurope April 2025: Implementing Agentic AI solutions in Django from scratch - 90 minute workshop.
+- AI Agents in the Data Pipeline - 90 minute workshop. Awaiting to be announced.
 
 <hr>
 
