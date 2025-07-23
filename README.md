@@ -38,6 +38,9 @@ I volunteer at Codebar.io in Brighton.
 ## Talks and Workshops
 
 ### Python
+
+- AI Agents in the Data Pipeline - 90 minute workshop, PyData Southampton Meetup, June 2025.
+  
 - DjangoConEurope April 2025: Implementing Agentic AI solutions in Django from scratch - 90 minute workshop.
 
 - Brighton Py Feb 2025: AI as API in everyday Python apps - 60 minute talk and demo.
@@ -50,7 +53,8 @@ I volunteer at Codebar.io in Brighton.
 
 <span style="color:orange;">Next...</span>
 
-- AI Agents in the Data Pipeline - 90 minute workshop. Awaiting to be announced.
+- AI Agents in the Data Pipeline - Earl Conference, Brighton, Oct 2025.
+
 
 <hr>
 
