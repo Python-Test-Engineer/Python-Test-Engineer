@@ -17,9 +17,9 @@ https://evaluating-ai-agents.com/
 ## Currently working as a freelancer in Brighton, UK
 
 ## Connect with me
-- 🌐 https://pytest-cookbook.com
+- 🌐 https://craig-west.netlify.app/
 - 📫 mrcraigwest@hotmail.com
-- 🖥️ https://www.youtube.com/@iwswordpress/featured
+- :linkedin: https://www.linkedin.com/in/craig-west-0914b230b/
 
 ##  Created 'PyTestest Cookbook - recipes with videos and repos'.
 
