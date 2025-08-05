@@ -19,7 +19,7 @@ https://evaluating-ai-agents.com/
 ## Connect with me
 - 🌐 https://craig-west.netlify.app/
 - 📫 mrcraigwest@hotmail.com
-- :linkedin: https://www.linkedin.com/in/craig-west-0914b230b/
+- 🕸️ https://www.linkedin.com/in/craig-west-0914b230b/
 
 ##  Created 'PyTestest Cookbook - recipes with videos and repos'.
 
