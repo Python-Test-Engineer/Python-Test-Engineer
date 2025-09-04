@@ -41,6 +41,8 @@ I volunteer at Codebar.io in Brighton.
 
 ### Python
 
+- Breaking the Black Box - How to Evaluate Your Agents... in Real Time Too! - 30 minute talk, PyData London Meetup, Sep 2025.
+
 - AI Agents in the Data Pipeline - 90 minute workshop, PyData Southampton Meetup, June 2025.
   
 - DjangoConEurope April 2025: Implementing Agentic AI solutions in Django from scratch - 90 minute workshop.
