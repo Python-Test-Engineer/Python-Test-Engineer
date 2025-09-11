@@ -58,7 +58,7 @@ I volunteer at Codebar.io in Brighton.
 <span style="color:orange;">Next...</span>
 - PyData Southnampton Meetup, Sep 2025: Breaking the Black Box - How to Evaluate Your Agents... in Real Time Too! - 30 minute talk.
 
-- AI Agents in the Data Pipeline - Earl Conference, Brighton, Oct 2025.
+- AI Agents in the Data Pipeline: Earl Conference, Brighton, Oct 2025.
 
 <hr>
 
