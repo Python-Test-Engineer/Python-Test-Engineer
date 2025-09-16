@@ -22,6 +22,7 @@ https://evaluating-ai-agents.com/
 - 🕸️ https://www.linkedin.com/in/craig-west-0914b230b/
 
 ##  Created 'PyTestest Cookbook - recipes with videos and repos'.
+[https://evaluating-ai-agents.com/](https://evaluating-ai-agents.com/)
 
 [pytest-cookbook.com](https://pytest-cookbook.com/)
 
