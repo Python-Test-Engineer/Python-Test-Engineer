@@ -40,6 +40,7 @@ I volunteer at Codebar.io in Brighton.
 ## Talks and Workshops
 
 ### Python
+- PyData Southnampton Meetup, Sep 2025: Breaking the Black Box - How to Evaluate Your Agents... in Real Time Too! - 30 minute talk.
 
 - PyData London Meetup, Sep 2025: Breaking the Black Box - How to Evaluate Your Agents... in Real Time Too! - 30 minute talk.
 
@@ -56,7 +57,6 @@ I volunteer at Codebar.io in Brighton.
 - PyCon Ireland Nov 2024: Getting started with Pytest - 2 hr workshop.
 
 <span style="color:orange;">Next...</span>
-- PyData Southnampton Meetup, Sep 2025: Breaking the Black Box - How to Evaluate Your Agents... in Real Time Too! - 30 minute talk.
 
 - AI Agents in the Data Pipeline: Earl Conference, Brighton, Oct 2025.
 
