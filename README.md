@@ -41,10 +41,9 @@ I volunteer at Codebar.io in Brighton.
 ## Talks and Workshops
 
 ### Python
-<span style="color:orange;">Next...</span>
 
-- AI Agents in the Data Pipeline: Earl Conference, Brighton, Oct 2025.
-- 
+- NEXT... AI Agents in the Data Pipeline: Earl Conference, Brighton, Oct 2025.
+  
 - PyData Southampton Meetup, Sep 2025: Breaking the Black Box - How to Evaluate Your Agents... in Real Time Too! - 30 minute talk.
 
 - PyData London Meetup, Sep 2025: Breaking the Black Box - How to Evaluate Your Agents... in Real Time Too! - 30 minute talk.
