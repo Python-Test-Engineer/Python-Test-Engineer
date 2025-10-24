@@ -42,8 +42,10 @@ I volunteer at Codebar.io in Brighton.
 
 ### Python
 
-- NEXT... AI Agents in the Data Pipeline: Earl Conference, Brighton, Oct 2025.
-  
+- NEXT... AI Agents and Evals for all languages - Brighton Web Development Meetup, October 29th 2025
+
+-  AI Agents in the Data Pipeline: Earl Conference, Brighton, Oct 2025.
+
 - PyData Southampton Meetup, Sep 2025: Breaking the Black Box - How to Evaluate Your Agents... in Real Time Too! - 30 minute talk.
 
 - PyData London Meetup, Sep 2025: Breaking the Black Box - How to Evaluate Your Agents... in Real Time Too! - 30 minute talk.
