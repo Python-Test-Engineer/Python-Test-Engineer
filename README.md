@@ -20,6 +20,9 @@
 - 🕸️ https://www.linkedin.com/in/craig-west-0914b230b/
 
 ##  Created 'PyTestest Cookbook - recipes with videos and repos'.
+
+[https://managing-ai-agents.netlify.app/](https://managing-ai-agents.netlify.app/)
+
 [https://evaluating-ai-agents.com/](https://evaluating-ai-agents.com/)
 
 [pytest-cookbook.com](https://pytest-cookbook.com/)
@@ -40,7 +43,7 @@ I volunteer at Codebar.io in Brighton.
 
 ### Python
 
-- NEXT... AI Agents and Evals for all languages - Brighton Web Development Meetup, October 29th 2025
+- AI Agents and Evals for all languages - Brighton Web Development Meetup, October 29th 2025
 
 -  AI Agents in the Data Pipeline: Earl Conference, Brighton, Oct 2025.
 
