@@ -15,7 +15,7 @@
 ## Currently working as a freelancer in Brighton, UK
 
 ## Connect with me
-- 🌐 [https://craig-west.netlify.app/](https://craigwestai.com/)
+- 🌐 [https://craigwestai.com/](https://craigwestai.com/)
 - 📫 mrcraigwest@hotmail.com
 - 🕸️ https://www.linkedin.com/in/craig-west-0914b230b/
 
